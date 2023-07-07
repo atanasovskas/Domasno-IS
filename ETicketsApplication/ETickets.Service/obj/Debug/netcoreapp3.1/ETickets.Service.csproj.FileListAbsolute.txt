@@ -1,0 +1,15 @@
+C:\Users\aa\Desktop\IS-Domasno-201009\ETicketsApplication\ETickets.Service\bin\Debug\netcoreapp3.1\ETickets.Service.deps.json
+C:\Users\aa\Desktop\IS-Domasno-201009\ETicketsApplication\ETickets.Service\bin\Debug\netcoreapp3.1\ETickets.Service.dll
+C:\Users\aa\Desktop\IS-Domasno-201009\ETicketsApplication\ETickets.Service\bin\Debug\netcoreapp3.1\ETickets.Service.pdb
+C:\Users\aa\Desktop\IS-Domasno-201009\ETicketsApplication\ETickets.Service\bin\Debug\netcoreapp3.1\ETickets.Domain.dll
+C:\Users\aa\Desktop\IS-Domasno-201009\ETicketsApplication\ETickets.Service\bin\Debug\netcoreapp3.1\ETickets.Repository.dll
+C:\Users\aa\Desktop\IS-Domasno-201009\ETicketsApplication\ETickets.Service\bin\Debug\netcoreapp3.1\ETickets.Domain.pdb
+C:\Users\aa\Desktop\IS-Domasno-201009\ETicketsApplication\ETickets.Service\bin\Debug\netcoreapp3.1\ETickets.Repository.pdb
+C:\Users\aa\Desktop\IS-Domasno-201009\ETicketsApplication\ETickets.Service\obj\Debug\netcoreapp3.1\ETickets.Service.csproj.AssemblyReference.cache
+C:\Users\aa\Desktop\IS-Domasno-201009\ETicketsApplication\ETickets.Service\obj\Debug\netcoreapp3.1\ETickets.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aa\Desktop\IS-Domasno-201009\ETicketsApplication\ETickets.Service\obj\Debug\netcoreapp3.1\ETickets.Service.AssemblyInfoInputs.cache
+C:\Users\aa\Desktop\IS-Domasno-201009\ETicketsApplication\ETickets.Service\obj\Debug\netcoreapp3.1\ETickets.Service.AssemblyInfo.cs
+C:\Users\aa\Desktop\IS-Domasno-201009\ETicketsApplication\ETickets.Service\obj\Debug\netcoreapp3.1\ETickets.Service.csproj.CoreCompileInputs.cache
+C:\Users\aa\Desktop\IS-Domasno-201009\ETicketsApplication\ETickets.Service\obj\Debug\netcoreapp3.1\ETickets.Service.csproj.CopyComplete
+C:\Users\aa\Desktop\IS-Domasno-201009\ETicketsApplication\ETickets.Service\obj\Debug\netcoreapp3.1\ETickets.Service.dll
+C:\Users\aa\Desktop\IS-Domasno-201009\ETicketsApplication\ETickets.Service\obj\Debug\netcoreapp3.1\ETickets.Service.pdb
